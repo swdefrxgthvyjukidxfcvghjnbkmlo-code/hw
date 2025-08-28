@@ -5,14 +5,14 @@
 # Print envelope
 print("""
 +--------------------------------------------------------------------+
-|    Jennifer Bailey                                      +-----+    |
-|    123 Fictional Lane                                   | USA |    |
-|    Anytown, USA 12345                                   | [*] |    |
+|    Ivan Chang                                           +-----+    |
+|    5595 Moosehead Cir.                                   | USA |    |
+|    Longmont, CO 80503                                   | [*] |    |
 |                                                         +-----+    |
 |                                                                    |
-|                            Joe Marx                                |
-|                            456 Imaginary Blvd                      |
-|                            Somewhere, USA 67890                    |
+|                            Will Navidson                           |
+|                            456 Ash Tree Ln.                        |
+|                            Virginia, USA 20103                     |
 |                                                                    |
 |                                                                    |
 +--------------------------------------------------------------------+
