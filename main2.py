@@ -1,6 +1,6 @@
 """
 Author: Ivan Chang
-Date: August 26, 2025
+Date: September 2, 2025
 Description: Gives the Time Left in the Day
 """
 
